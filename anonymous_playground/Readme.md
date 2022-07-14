@@ -18,12 +18,12 @@
   1. Servicio 1
         Detalle:
       
-  **VULNERABLE
+  **VULNERABLE**
 
   2. Servicio 2
         Detalle:
       
-  **NO VULNERABLE
+  **NO VULNERABLE**
 
 
 ## Exploit
