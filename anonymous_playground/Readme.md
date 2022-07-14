@@ -8,25 +8,22 @@
 
 ### Puertos y servicios:
 
-  0         http       Apache
-
 | Puerto | Servicio | Version |
 | -------| ---------| ---------|
-| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 0  | http | Apache x.x  |
+| 1  | smb  | x.x.x |
 
 ### Detalle de los servicios:
 
   1. Servicio 1
         Detalle:
       
-
-    **VULNERABLE
+  **VULNERABLE
 
   2. Servicio 2
         Detalle:
       
-    **NO VULNERABLE
+  **NO VULNERABLE
 
 
 ## Exploit
