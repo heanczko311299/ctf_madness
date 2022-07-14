@@ -17,21 +17,16 @@
 
 ### Detalle de los servicios:
 
-  1. Servicio
+  1. Servicio 1
         Detalle:
-        1.
-        2.
-        3.
+      
 
-    ** VULNERABLE
+    **VULNERABLE
 
-  2. Servicio
+  2. Servicio 2
         Detalle:
-        1.
-        2.
-        3.
-
-    ** NO VULNERABLE
+      
+    **NO VULNERABLE
 
 
 ## Exploit
