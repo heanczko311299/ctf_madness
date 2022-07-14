@@ -1,4 +1,3 @@
-
 # Anonymous Playground
 
 ## Recon
@@ -15,31 +14,39 @@
 
 ### Detalle de los servicios:
 
-  1. Servicio 1:
+1. Servicio 1:
       - Detalle:
-      
-  **VULNERABLE**
+      **VULNERABLE**
 
-  2. Servicio 2:
-       - Detalle:
-      
-  **NO VULNERABLE**
+2. Servicio 2:
+      - Detalle:
+      NO VULNERABLE
 
 
 ## Exploit
 ### Detalle de la exploitacion:
 
-Exploit1:
-Evidencia del exploit exitoso: EV1
+1. Exploit1:
+      - Detalle:
 
 
 ## PrivEsc
-
 ### Detalle de PrivEsc:
 
-PrivEsc1:
-Evidencia de PrivEsc1: EV1
+1. PrivEsc1:
+      - Detalle:
 
 ## Proof & Flags
+### Usuarios
 
-Evidencia de credenciales, flags, datos confidenciales, etc:
+| Users | Passwords |
+| ------| --------- |
+| 0  | xxxxxxxx |
+| 1  | xxxxxxxx |
+
+### Flags
+
+| # | Flags |
+| --| ----- |
+| user.txt | xxxxxxxx |
+| root.txt  | xxxxxxxx |

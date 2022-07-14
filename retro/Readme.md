@@ -1,69 +1,52 @@
+# Retro
 
-██████╗░███████╗████████╗██████╗░░█████╗░
-██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
-██████╔╝█████╗░░░░░██║░░░██████╔╝██║░░██║
-██╔══██╗██╔══╝░░░░░██║░░░██╔══██╗██║░░██║
-██║░░██║███████╗░░░██║░░░██║░░██║╚█████╔╝
-╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░
+## Recon
+### Hostname:
 
+  retro.thm
 
-█▀█ █▀▀ █▀▀ █▀█ █▄░█
-█▀▄ ██▄ █▄▄ █▄█ █░▀█
+### Puertos y servicios:
 
-Hostname:
+| Puerto | Servicio | Version |
+| -------| ---------| ---------|
+| 0  | http | Apache x.x  |
+| 1  | smb  | x.x.x |
 
-  hacked.thm
+### Detalle de los servicios:
 
-Puertos y servicios:
+1. Servicio 1:
+      - Detalle:
+      **VULNERABLE**
 
-  0         http       Apache
-
-Detalle de los servicios:
-
-  1. Servicio
-        Detalle:
-        1.
-        2.
-        3.
-
-    VULNERABLE
-
-  2. Servicio
-        Detalle:
-        1.
-        2.
-        3.
-
-    NO VULNERABLE
+2. Servicio 2:
+      - Detalle:
+      NO VULNERABLE
 
 
-█▀▀ ▀▄▀ █▀█ █░░ █▀█ █ ▀█▀
-██▄ █░█ █▀▀ █▄▄ █▄█ █ ░█░
+## Exploit
+### Detalle de la exploitacion:
 
-Evidencia del exploit:
-
-Exploit1:
-Evidencia del exploit exitoso: EV1
-
-Esploit2:
-Evidencia del exploit exitoso: EV2
+1. Exploit1:
+      - Detalle:
 
 
+## PrivEsc
+### Detalle de PrivEsc:
 
-█▀█ █▀█ █ █░█ █▀▀ █▀ █▀▀
-█▀▀ █▀▄ █ ▀▄▀ ██▄ ▄█ █▄▄
+1. PrivEsc1:
+      - Detalle:
 
-Evidencia del PrivEsc:
+## Proof & Flags
+### Usuarios
 
-PrivEsc1:
-Evidencia de localizacion de PrivEsc1: EV1
+| Users | Passwords |
+| ------| --------- |
+| 0  | xxxxxxxx |
+| 1  | xxxxxxxx |
 
-ExploitPrivEsc1:
-Evidencia del exploit exitoso: EV2
+### Flags
 
-
-
-█▀█ █▀█ █▀█ █▀█ █▀▀   █▀█ █▀█   █▀▀ █░░ ▄▀█ █▀▀ █▀
-█▀▀ █▀▄ █▄█ █▄█ █▀░   █▄█ █▀▄   █▀░ █▄▄ █▀█ █▄█ ▄█
-
-Evidencia de credenciales, flags, datos confidenciales, etc:
+| # | Flags |
+| --| ----- |
+| user.txt | xxxxxxxx |
+| root.txt  | xxxxxxxx |
