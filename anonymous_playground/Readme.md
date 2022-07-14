@@ -15,13 +15,13 @@
 
 ### Detalle de los servicios:
 
-  1. Servicio 1
-        Detalle:
+  1. Servicio 1:
+      - Detalle:
       
   **VULNERABLE**
 
-  2. Servicio 2
-        Detalle:
+  2. Servicio 2:
+       - Detalle:
       
   **NO VULNERABLE**
 
